@@ -2,6 +2,8 @@
 
 #include "ofMain.h"
 
+int foo(int i);
+
 class ofApp : public ofBaseApp{
 
 	public:

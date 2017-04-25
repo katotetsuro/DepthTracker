@@ -1,5 +1,9 @@
 #include "ofApp.h"
 
+int foo(int i){
+    return i * 2;
+}
+
 //--------------------------------------------------------------
 void ofApp::setup(){
 
